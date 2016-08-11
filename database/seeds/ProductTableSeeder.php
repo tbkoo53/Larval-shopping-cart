@@ -35,7 +35,7 @@ class ProductTableSeeder extends Seeder
             'imagePath'    => 'http://t1.gstatic.com/images?q=tbn:ANd9GcTHxIgkw761_VLTV-5W6HhkCAsFChf6c97ELNfVjzHZpwcdx0Ps',
             'title'       => 'Harry Potter',
             'description' => 'Sper cool - at least as a child.',
-            'price'       => 10
+            'price'       => 20
 
         ]);
 
@@ -45,7 +45,7 @@ class ProductTableSeeder extends Seeder
             'imagePath'    => 'http://t1.gstatic.com/images?q=tbn:ANd9GcTHxIgkw761_VLTV-5W6HhkCAsFChf6c97ELNfVjzHZpwcdx0Ps',
             'title'       => 'Harry Potter',
             'description' => 'Sper cool - at least as a child.',
-            'price'       => 10
+            'price'       => 20
 
         ]);
 
@@ -55,7 +55,7 @@ class ProductTableSeeder extends Seeder
             'imagePath'    => 'http://t1.gstatic.com/images?q=tbn:ANd9GcTHxIgkw761_VLTV-5W6HhkCAsFChf6c97ELNfVjzHZpwcdx0Ps',
             'title'       => 'Harry Potter',
             'description' => 'Sper cool - at least as a child.',
-            'price'       => 10
+            'price'       => 20
 
         ]);
 
