@@ -13,7 +13,7 @@
         </div>
         @endif
 
-        <form action="" method="post">
+        <form action="{{ route('user.signup') }}" method="post">
             <div class="form-group">
                 <label for="email">E-Mail</label>
                 <input type="text" id="email" name="email" class="form-control">
@@ -23,6 +23,8 @@
                 <input type="password" id="password" name="password" class="form-control">
             </div>
             <button type="submit" class="btn btn-primary">Sign Up</button>
+            {{ csrf_field() }}
+
         </form>
     </div>
 </div>
